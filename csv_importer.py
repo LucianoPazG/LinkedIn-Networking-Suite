@@ -87,6 +87,16 @@ class LinkedInCSVImporter:
                 fieldnames = reader.fieldnames or []
                 logger.info(f"Columnas detectadas: {fieldnames}")
 
+                # Saltar líneas de "Notes:" o comentarios al principio
+                if 'Notes' in fieldnames and len(fieldnames) == 1:
+                    # Leer las siguientes líneas hasta encontrar los datos reales
+                    for _ in range(3):  # Saltar hasta 3 líneas de notes
+                        next(f)
+                    # Re-crear el reader con los datos correctos
+                    reader = csv.DictReader(f, delimiter=dialect)
+                    fieldnames = reader.fieldnames or []
+                    logger.info(f"Columnas reales detectadas: {fieldnames}")
+
                 for row in reader:
                     stats['total'] += 1
 
@@ -158,6 +168,7 @@ class LinkedInCSVImporter:
         field_mapping = {
             # URL de LinkedIn (varios formatos posibles)
             'linkedin_url': [
+                'URL',
                 'LinkedIn URL',
                 'LinkedIn',
                 'Url',
