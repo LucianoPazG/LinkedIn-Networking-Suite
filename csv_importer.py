@@ -81,21 +81,25 @@ class LinkedInCSVImporter:
                 if not dialect:
                     dialect = ','
 
-                reader = csv.DictReader(f, delimiter=dialect)
+                # Leer archivo completo para procesar líneas de notes
+                lines = f.readlines()
+
+                # Encontrar dónde empiezan los datos reales (línea que contiene "First Name")
+                data_start_line = 0
+                for i, line in enumerate(lines):
+                    if 'First Name' in line or 'LastName' in line or 'Last Name' in line:
+                        data_start_line = i
+                        break
+
+                logger.info(f"Datos reales encontrados en línea {data_start_line + 1}")
+
+                # Crear reader solo desde los datos reales
+                csv_data = ''.join(lines[data_start_line:])
+                reader = csv.DictReader(csv_data.splitlines(), delimiter=dialect)
 
                 # Detectar columnas
                 fieldnames = reader.fieldnames or []
                 logger.info(f"Columnas detectadas: {fieldnames}")
-
-                # Saltar líneas de "Notes:" o comentarios al principio
-                if 'Notes' in fieldnames and len(fieldnames) == 1:
-                    # Leer las siguientes líneas hasta encontrar los datos reales
-                    for _ in range(3):  # Saltar hasta 3 líneas de notes
-                        next(f)
-                    # Re-crear el reader con los datos correctos
-                    reader = csv.DictReader(f, delimiter=dialect)
-                    fieldnames = reader.fieldnames or []
-                    logger.info(f"Columnas reales detectadas: {fieldnames}")
 
                 for row in reader:
                     stats['total'] += 1
