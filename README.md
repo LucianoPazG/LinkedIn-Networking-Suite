@@ -251,9 +251,9 @@ Esta herramienta **SÍ**:
 
 ## 📧 Contacto / Contact
 
-- **Autor**: [Tu Nombre]
-- **GitHub**: [@tu-usuario](https://github.com/tu-usuario)
-- **LinkedIn**: [Tu perfil de LinkedIn](https://linkedin.com/in/tu-perfil)
+- **Author**: Luciano Paz
+- **GitHub**: @LucianoPazG https://github.com/LucianoPazG
+- **LinkedIn**: https://www.linkedin.com/in/luciano-paz-593803230/
 
 ---
 
@@ -265,7 +265,7 @@ Esta herramienta **SÍ**:
 
 <div align="center">
 
-**Hecho con ❤️ por [Tu Nombre]**
+**Hecho con ❤️ por Luciano Paz**
 
 </div>
 
@@ -435,9 +435,9 @@ Use at your own risk and in accordance with LinkedIn's Terms of Service.
 
 ## 📧 Contact
 
-- **Author**: [Your Name]
-- **GitHub**: [@your-username](https://github.com/your-username)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **Author**: Luciano Paz
+- **GitHub**: @LucianoPazG https://github.com/LucianoPazG
+- **LinkedIn**: https://www.linkedin.com/in/luciano-paz-593803230/
 
 ---
 
@@ -445,6 +445,6 @@ Use at your own risk and in accordance with LinkedIn's Terms of Service.
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Luciano Paz**
 
 </div>
