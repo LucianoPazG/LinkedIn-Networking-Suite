@@ -20,12 +20,16 @@
 
 
 *Gestión de Contactos*
+
 <img width="1415" height="1033" alt="Connections_csv" src="https://github.com/user-attachments/assets/96be36a1-a186-4a26-a8d6-fbc70684e5fc" />
 
 *Conexiones Exportadas*
 
 <img width="1892" height="425" alt="export_connections" src="https://github.com/user-attachments/assets/9574458f-35a9-454e-a426-3fa81690463d" />
 
+*Mensajes Predeterminados*
+
+<img width="957" height="652" alt="Captura de pantalla 2026-01-09 125655" src="https://github.com/user-attachments/assets/3804e43b-9a2b-48a0-8789-9eeeea844ae1" />
 
 
 </div>
