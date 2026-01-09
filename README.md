@@ -19,15 +19,14 @@
 <img width="734" height="594" alt="image" src="https://github.com/user-attachments/assets/ce83ebd3-a017-47a7-8eff-99fee0d569fd" />
 
 
-
 *Gestión de Contactos*
 <img width="1415" height="1033" alt="Connections_csv" src="https://github.com/user-attachments/assets/96be36a1-a186-4a26-a8d6-fbc70684e5fc" />
 
-
+*Conexiones Exportadas*
 
 <img width="1892" height="425" alt="export_connections" src="https://github.com/user-attachments/assets/9574458f-35a9-454e-a426-3fa81690463d" />
 
-*Conexiones Exportadas*
+
 
 </div>
 
