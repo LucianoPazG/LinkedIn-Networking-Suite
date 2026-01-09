@@ -58,7 +58,7 @@ class LinkedInNetworkingSuite:
 ║                                                                    ║
 ║           🤝 LINKEDIN NETWORKING SUITE 🤝                          ║
 ║                                                                    ║
-║           Suite completa para networking con recruiters             ║
+║           Suite completa para networking con recruiters            ║
 ║                                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
 
