@@ -15,6 +15,7 @@
 <div align="center">
    
 *Menú Principal*
+
 <img width="734" height="594" alt="image" src="https://github.com/user-attachments/assets/ce83ebd3-a017-47a7-8eff-99fee0d569fd" />
 
 
