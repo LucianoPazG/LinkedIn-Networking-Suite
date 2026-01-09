@@ -14,7 +14,8 @@
 
 <div align="center">
 
-<img width="693" height="549" alt="image" src="https://github.com/user-attachments/assets/38618b04-56b8-41ed-84d1-7e4b7c41853d" />
+<img width="734" height="594" alt="image" src="https://github.com/user-attachments/assets/ce83ebd3-a017-47a7-8eff-99fee0d569fd" />
+
 
 *Menú Principal*
 
