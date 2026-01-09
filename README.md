@@ -13,15 +13,16 @@
 ## 📸 Capturas de Pantalla / Screenshots
 
 <div align="center">
-
+   
+*Menú Principal*
 <img width="734" height="594" alt="image" src="https://github.com/user-attachments/assets/ce83ebd3-a017-47a7-8eff-99fee0d569fd" />
 
 
-*Menú Principal*
-
-<img width="1415" height="1033" alt="Connections_csv" src="https://github.com/user-attachments/assets/96be36a1-a186-4a26-a8d6-fbc70684e5fc" />
 
 *Gestión de Contactos*
+<img width="1415" height="1033" alt="Connections_csv" src="https://github.com/user-attachments/assets/96be36a1-a186-4a26-a8d6-fbc70684e5fc" />
+
+
 
 ![Estadísticas](https://github.com/[tu-usuario]/linkedin-networking-suite/blob/main/screenshots/estadisticas.png)
 *Estadísticas y Análisis*
