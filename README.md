@@ -14,7 +14,8 @@
 
 <div align="center">
 
-![Menú Principal](https://github.com/[tu-usuario]/linkedin-networking-suite/blob/main/screenshots/menu_principal.png)
+<img width="693" height="549" alt="image" src="https://github.com/user-attachments/assets/38618b04-56b8-41ed-84d1-7e4b7c41853d" />
+
 *Menú Principal*
 
 ![Gestión de Contactos](https://github.com/[tu-usuario]/linkedin-networking-suite/blob/main/screenshots/contactos.png)
