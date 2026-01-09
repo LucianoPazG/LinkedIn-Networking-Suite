@@ -58,7 +58,7 @@
 ### Paso 1: Clonar el Repositorio
 
 ```bash
-git clone https://github.com/[tu-usuario]/linkedin-networking-suite.git
+git clone https://github.com/LucianoPazG/linkedin-networking-suite.git
 cd linkedin-networking-suite
 ```
 
