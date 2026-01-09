@@ -44,18 +44,6 @@
 - ✅ **No API Required**: No necesita aprobación de LinkedIn
 - ✅ **Cross-platform**: Funciona en Windows, Mac, Linux
 
----
-
-## 🚀 Demo / Live Demo
-
-```bash
-# Importa 500 conexiones en 10 segundos
-python main.py
-→ 6 → 2 → connections.csv → Enter
-→ ✅ 500 contactos importados!
-```
-
-**Video Demo**: [Link a tu video/demo] (opcional)
 
 ---
 
