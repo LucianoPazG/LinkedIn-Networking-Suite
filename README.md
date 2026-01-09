@@ -25,8 +25,9 @@
 
 
 
-![Estadísticas](https://github.com/[tu-usuario]/linkedin-networking-suite/blob/main/screenshots/estadisticas.png)
-*Estadísticas y Análisis*
+<img width="1892" height="425" alt="export_connections" src="https://github.com/user-attachments/assets/9574458f-35a9-454e-a426-3fa81690463d" />
+
+*Conexiones Exportadas*
 
 </div>
 
